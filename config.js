@@ -22,26 +22,26 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
-global.author = "Sandaru"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "youtube.com/SANDARU-YT"
-global.footer = "©\t" + "sandaru"
-global.prefa = ['-'] // single prefix
-global.themeemoji = "🎐"
+global.botname = "MASTERPEACE " 
+global.author = "Masterpeace"  
+global.packname = "MASTER✯PEACE✯𝘽𝙊𝙏"  
+global.myweb = "youtube.com/masterpeace-YT"
+global.footer = "©\t" + "masterpeacetech3808"
+global.prefa = ['.'] // single prefix
+global.themeemoji = "⚡"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
-global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
+global.socialLink = `*⪧⪢ https://chat.whatsapp.com/KiQe9JIs0ys5mmFOOGUMFM 💝*`
 
 
-global.ownername = "Sandaru"    
-global.ownernumber = ["94764497078"]
-global.ytname = "YT: SANDARU-YT"
-global.continent = "Asia" // your continent name 
+global.ownername = "MASTERPEACE "    
+global.ownernumber = ["263788914422"]
+global.ytname = "YT:masterpeacetech3808-YT"
+global.continent = "Africa" // your continent name 
 global.region = "Sri Lanka"
 global.state = "Colombo" // your state name
 global.timezone = "Asia/Colombo" // search on google if you don't know the timezone of your country //
-global.instagramId = "Enter Your Insta ID Here"
-global.email = "mdsandaru2@gmail.com"
+global.instagramId = "https://instagram.com/pannelious6?igshid=NGExMmI2YTkyZg=="
+global.email = "penneluous@gmail.com "
 
 
 // Greeting messages
